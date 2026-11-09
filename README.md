@@ -1,10 +1,9 @@
 # My Participation at SpookyCTF 2026
-
 <p align="center">
   <img src="spookyctf.png" alt="SpookyCTF 2026" width="548" height="528">
 </p>
 
-This was my team and I's first time taking part in a CTF event. It had challenges of various difficulties and we didn't get around to finishing every single one. Combined, we finished **16/38** challenges in the 24 hours provided. Some of the challenges were only unleashed later on in the event in a second wave and a surprise super late drop.
+This was my team and I's first time taking part in a [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) event. It had challenges of various difficulties and we didn't get around to finishing every single one. Combined, we finished **16/38** challenges in the 24 hours provided. Some of the challenges were only unleashed later on in the event in a second wave and a surprise super late drop.
 
 ---
 
