@@ -62,7 +62,7 @@ Here's a list of my personal write-ups for the different challenges I completed 
 - Misc.
   - [The Model Knows](Misc/The_Model_Knows.md)
 
-NOTE: I didn't use any LLM for assistance with these challenges.
+NOTE: I didn't use any LLM for assistance with completing these challenges.
 
 ---
 
