@@ -44,7 +44,7 @@ This was my team and I's first time taking part in a [CTF](https://en.wikipedia.
 </tr>
 </table>
 
-Our team placed **208th** out of 749 participating teams, which is in the **top 27.8%** with a score of **1978 points**. Which I reckon for absolute newbies is a pretty awesome feat.
+Our team placed **181st** out of 715 participating teams, which is in the **top 25.3%** with a score of **1978 points**. Which I reckon for absolute newbies is a pretty awesome feat.
 
 ---
 
